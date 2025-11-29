@@ -1,0 +1,10 @@
+google-generativeai
+groq
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+opencv-python
+pillow
+streamlit 
